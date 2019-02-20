@@ -24,7 +24,7 @@ limitations under the License.
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>codeu-starter-project-team6</name>
+  <name>codeu-starter-project</name>
   <url>http://maven.apache.org</url>
 
   <properties>
